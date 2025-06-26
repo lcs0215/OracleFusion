@@ -1,4 +1,3 @@
-# OracleFusion
-Official implementation for “DVHGNN: Multi-Scale Dilated Vision HGNN for Efficient Vision Recognition”
+# OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography
 
 coming soon...
