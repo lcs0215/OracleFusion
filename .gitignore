@@ -1,0 +1,3 @@
+/data
+# Training-only checkpoint state
+checkpoint/**/optimizer.pt

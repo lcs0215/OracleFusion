@@ -1,0 +1,12 @@
+python code/main.py \
+    --token_indices "['The bird,', 'mountain,']" \
+    --bbox "[[87, 21, 187, 152], [75, 157, 168, 222]]" \
+    --P 0.2 --L 1 \
+    --experiment conformal_0.5_dist_pixel_100_kernel201 \
+    --seed 2434 \
+    --font 甲骨文字体库 --use_wandb 0 --wandb_user none \
+    --semantic_concept "The bird, mountain, bird stands on the mountain" \
+    --word 岛 \
+    --log_dir outputs \
+    --angeles_w 0.5 \
+    --image_dir ./GT/dataset
