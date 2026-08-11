@@ -1,3 +1,0 @@
-# OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography
-
-coming soon...
