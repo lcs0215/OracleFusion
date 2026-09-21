@@ -46,7 +46,7 @@ python setup.py install
 > 提示：Stage 1 依赖 `ms-swift` 环境；Stage 2 依赖上述 OracleFusion 运行环境。请根据执行阶段切换对应环境。
 
 ## 数据
-
+RMOBS下载链接：https://drive.google.com/drive/folders/1sVfz9SKuHPLU_5ys9MFuXgprY5VlmXNJ?usp=drive_link
 如需运行完整实验，请准备数据，并按以下目录结构放置：
 
 | 目录 | 内容 |
